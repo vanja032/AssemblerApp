@@ -1,0 +1,10 @@
+C:\Users\Vanja Sretenovic\source\repos\AssemblerApp\AssemblerApp\bin\Debug\AssemblerApp.exe.config
+C:\Users\Vanja Sretenovic\source\repos\AssemblerApp\AssemblerApp\bin\Debug\AssemblerApp.exe
+C:\Users\Vanja Sretenovic\source\repos\AssemblerApp\AssemblerApp\bin\Debug\AssemblerApp.pdb
+C:\Users\Vanja Sretenovic\source\repos\AssemblerApp\AssemblerApp\obj\Debug\AssemblerApp.csproj.AssemblyReference.cache
+C:\Users\Vanja Sretenovic\source\repos\AssemblerApp\AssemblerApp\obj\Debug\AssemblerApp.Form1.resources
+C:\Users\Vanja Sretenovic\source\repos\AssemblerApp\AssemblerApp\obj\Debug\AssemblerApp.Properties.Resources.resources
+C:\Users\Vanja Sretenovic\source\repos\AssemblerApp\AssemblerApp\obj\Debug\AssemblerApp.csproj.GenerateResource.cache
+C:\Users\Vanja Sretenovic\source\repos\AssemblerApp\AssemblerApp\obj\Debug\AssemblerApp.csproj.CoreCompileInputs.cache
+C:\Users\Vanja Sretenovic\source\repos\AssemblerApp\AssemblerApp\obj\Debug\AssemblerApp.exe
+C:\Users\Vanja Sretenovic\source\repos\AssemblerApp\AssemblerApp\obj\Debug\AssemblerApp.pdb
